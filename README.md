@@ -1,6 +1,6 @@
 # HiTechCanvas
 
-Nice animated canvason HTML and JavaScript
+Nice animated canvas on HTML and JavaScript
 
 Screen provided here:
 
