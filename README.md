@@ -6,6 +6,6 @@ Screen provided here:
 
 ![alt text](https://raw.githubusercontent.com/akshinmustafayev/HiTechCanvas/master/screenshots/screen.png)
 
-Demo
+Demo:
 
 ![alt text](https://raw.githubusercontent.com/akshinmustafayev/HiTechCanvas/master/screenshots/demo.gif)
